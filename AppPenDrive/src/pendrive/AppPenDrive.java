@@ -1,5 +1,5 @@
 /*
-Aula dia: 01/09 até 15/09
+
 Criar a classe PenDrive, com os seguintes atributos e os Métodos de Acesso (Setters e Getters). 
 Crie uma aplicação com entrada de dados através do teclado para testar a classe criada, que utilize todos os métodos disponibilizados. 
 Atributos da classe PenDrive: 
